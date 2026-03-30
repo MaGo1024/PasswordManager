@@ -1,0 +1,1 @@
+A GUI app that generates and manages password for websites and applications.
