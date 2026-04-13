@@ -1,0 +1,3 @@
+ google.com | olu9224@gmail.com | welcome
+ amazon.com | olu9224@gmail.com | 123456
+ microsoft.com | olu9224@gmail.com | hello 
