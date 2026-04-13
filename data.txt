@@ -1,3 +1,6 @@
  google.com | olu9224@gmail.com | welcome
  amazon.com | olu9224@gmail.com | 123456
  microsoft.com | olu9224@gmail.com | hello 
+  | olu9224@gmail.com |  
+ facebook | olu9224@gmail.com | klandfskns 
+ paypal.com | olu9224@gmail.com | chicken 
